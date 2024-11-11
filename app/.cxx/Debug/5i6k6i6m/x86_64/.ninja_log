@@ -1,0 +1,27 @@
+# ninja log v5
+374	1488	750376791	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	2fc537b06111057d
+998	2061	750370549	CMakeFiles/yolov8ncnnHand.dir/ndkcamera.cpp.o	a9db57996c8abd2f
+3	949	750376790	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	15ca6cbe71d6ec73
+191	1251	750376790	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	82f1ed2cf673cf60
+1488	2065	750376791	E:/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cxx/Debug/5i6k6i6m/obj/x86_64/libyolov8ncnn.so	251227fbe1947b30
+2061	2635	750370549	E:/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cxx/Debug/5i6k6i6m/obj/x86_64/libyolov8ncnnHand.so	f4e7caf7bf888a4f
+186	1418	750370548	CMakeFiles/yolov8ncnnHand.dir/yolohand.cpp.o	668fa9c9d9998a68
+791	1919	750370548	CMakeFiles/yolov8ncnnHand.dir/yolov8ncnnhand.cpp.o	55241640d8bf0fa8
+0	219	750373879	build.ninja	81c0f24d0cc621bd
+1014	2075	750369455	CMakeFiles/yolov8ncnnHand.dir/ndkcamerahand.cpp.o	9e85f8add4d6fe7
+0	8	0	clean	bffba71302f1346e
+2	957	750376818	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	15ca6cbe71d6ec73
+222	1274	750376819	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	82f1ed2cf673cf60
+416	1501	750376819	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	2fc537b06111057d
+1501	2075	750376819	E:/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cxx/Debug/5i6k6i6m/obj/x86_64/libyolov8ncnn.so	251227fbe1947b30
+0	9	0	clean	bffba71302f1346e
+2	1137	750376868	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	82f1ed2cf673cf60
+195	1147	750376868	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	15ca6cbe71d6ec73
+399	1370	750376868	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	2fc537b06111057d
+1370	1970	750376869	E:/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cxx/Debug/5i6k6i6m/obj/x86_64/libyolov8ncnn.so	251227fbe1947b30
+0	9	0	clean	bffba71302f1346e
+0	9	0	clean	bffba71302f1346e
+3	1054	751136245	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	15ca6cbe71d6ec73
+197	1423	751136245	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	82f1ed2cf673cf60
+381	1528	751136245	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	2fc537b06111057d
+1529	2154	751136246	E:/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cxx/Debug/5i6k6i6m/obj/x86_64/libyolov8ncnn.so	251227fbe1947b30
